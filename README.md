@@ -1,5 +1,5 @@
--> Simple 5 channels FM synth.
--> The synth expects a list on its left inlet consisting of a gate value (0 or 1), a velocity value( (0 - 127) and a modulation value (0 to 1).
--> the right inlet expects values from 0 to 1 appended to either a "mod1" or "mod2" message.
--> modulation inputs can be routed to different parameters (button next to gain slider).
+-> Simple 5 channels FM synth.  
+-> The synth expects a list on its left inlet consisting of a gate value (0 or 1), a velocity value( (0 - 127) and a modulation value (0 to 1).  
+-> the right inlet expects values from 0 to 1 appended to either a "mod1" or "mod2" message.  
+-> modulation inputs can be routed to different parameters (button next to gain slider).  
 -> Test patcher is included with a simple sequencer to trigger events.
